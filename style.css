@@ -199,9 +199,11 @@
 .foot-panel2{
     display: flex;
     justify-content: space-evenly;
-    height: 300px;
+    height: auto;
     color: white;
     background-color: #222f3d;
+    padding-top: 30px;
+    padding-bottom: 30px;
 }
 .foot-panel:hover{
     background-color: #2b7986;
